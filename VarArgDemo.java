@@ -1,4 +1,4 @@
-class VarArgDemo {
+public class VarArgDemo {
 	public static void main(String[]args){
 
 		VarArgDemo ref = new VarArgDemo();
