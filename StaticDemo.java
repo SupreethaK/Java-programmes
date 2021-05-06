@@ -1,4 +1,4 @@
- class StaticDemo {
+class StaticDemo {
 	static int var;
 	public static void main(String[]args) {
 
